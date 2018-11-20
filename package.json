@@ -1,0 +1,17 @@
+{
+  "name": "my_first_skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-sdk": "^2.346.0",
+    "es6-promisify": "^6.0.1",
+    "request": "^2.88.0"
+  }
+}
